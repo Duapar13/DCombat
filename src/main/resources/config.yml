@@ -1,0 +1,24 @@
+# ================================
+# DCombat - Configuration
+# ================================
+
+# Type de stockage : "local" (fichiers YAML) ou "mysql"
+storage:
+  type: local
+
+  mysql:
+    host: localhost
+    port: 3306
+    database: dcombat
+    username: root
+    password: ""
+    useSSL: false
+
+combat:
+  # Durée du tag après un coup PvP (renouvelée à chaque coup), en secondes.
+  tag-duration-seconds: 15
+  # Si true, se déconnecter alors qu'on est tagué tue le joueur (perte
+  # d'objets/mort normale) - dissuasion standard contre le combat-log.
+  kill-on-combat-log: true
+  # Annonce un joueur en série tous les N kills consécutifs (0 = désactivé).
+  streak-announce-every: 5
