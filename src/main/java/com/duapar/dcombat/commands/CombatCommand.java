@@ -1,9 +1,9 @@
-package com.dcombat.commands;
+package com.duapar.dcombat.commands;
 
-import com.dcombat.manager.CombatException;
-import com.dcombat.manager.StatsManager;
-import com.dcombat.model.PlayerStats;
-import com.dcombat.util.Msg;
+import com.duapar.dcombat.manager.CombatException;
+import com.duapar.dcombat.manager.StatsManager;
+import com.duapar.dcombat.model.PlayerStats;
+import com.duapar.dcombat.util.Msg;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.OfflinePlayer;

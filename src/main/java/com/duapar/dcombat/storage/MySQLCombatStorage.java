@@ -1,6 +1,6 @@
-package com.dcombat.storage;
+package com.duapar.dcombat.storage;
 
-import com.dcombat.model.PlayerStats;
+import com.duapar.dcombat.model.PlayerStats;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 

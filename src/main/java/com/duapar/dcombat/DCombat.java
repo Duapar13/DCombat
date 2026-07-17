@@ -1,15 +1,15 @@
-package com.dcombat;
+package com.duapar.dcombat;
 
-import com.dcombat.commands.CombatCommand;
-import com.dcombat.integration.DAPIHook;
-import com.dcombat.listeners.CombatLogListener;
-import com.dcombat.listeners.CombatTagListener;
-import com.dcombat.listeners.KillTrackListener;
-import com.dcombat.manager.StatsManager;
-import com.dcombat.manager.TagManager;
-import com.dcombat.storage.CombatStorage;
-import com.dcombat.storage.MySQLCombatStorage;
-import com.dcombat.storage.YamlCombatStorage;
+import com.duapar.dcombat.commands.CombatCommand;
+import com.duapar.dcombat.integration.DAPIHook;
+import com.duapar.dcombat.listeners.CombatLogListener;
+import com.duapar.dcombat.listeners.CombatTagListener;
+import com.duapar.dcombat.listeners.KillTrackListener;
+import com.duapar.dcombat.manager.StatsManager;
+import com.duapar.dcombat.manager.TagManager;
+import com.duapar.dcombat.storage.CombatStorage;
+import com.duapar.dcombat.storage.MySQLCombatStorage;
+import com.duapar.dcombat.storage.YamlCombatStorage;
 import org.bukkit.command.PluginCommand;
 import org.bukkit.plugin.java.JavaPlugin;
 

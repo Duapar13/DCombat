@@ -1,6 +1,6 @@
-package com.dcombat.listeners;
+package com.duapar.dcombat.listeners;
 
-import com.dcombat.manager.TagManager;
+import com.duapar.dcombat.manager.TagManager;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.Player;
 import org.bukkit.entity.Projectile;

@@ -1,4 +1,4 @@
-package com.dcombat.util;
+package com.duapar.dcombat.util;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.CommandSender;

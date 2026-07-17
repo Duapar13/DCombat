@@ -1,10 +1,10 @@
-package com.dcombat.integration;
+package com.duapar.dcombat.integration;
 
-import com.dapi.DAPI;
-import com.dapi.service.CombatService;
-import com.dcombat.manager.StatsManager;
-import com.dcombat.manager.TagManager;
-import com.dcombat.service.DCombatServiceImpl;
+import com.duapar.dapi.DAPI;
+import com.duapar.dapi.service.CombatService;
+import com.duapar.dcombat.manager.StatsManager;
+import com.duapar.dcombat.manager.TagManager;
+import com.duapar.dcombat.service.DCombatServiceImpl;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**

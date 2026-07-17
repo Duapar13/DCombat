@@ -1,7 +1,7 @@
-package com.dcombat.manager;
+package com.duapar.dcombat.manager;
 
-import com.dcombat.model.PlayerStats;
-import com.dcombat.storage.CombatStorage;
+import com.duapar.dcombat.model.PlayerStats;
+import com.duapar.dcombat.storage.CombatStorage;
 import org.bukkit.configuration.file.FileConfiguration;
 
 import java.util.ArrayList;

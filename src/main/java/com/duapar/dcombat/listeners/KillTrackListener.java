@@ -1,9 +1,9 @@
-package com.dcombat.listeners;
+package com.duapar.dcombat.listeners;
 
-import com.dcombat.manager.StatsManager;
-import com.dcombat.manager.TagManager;
-import com.dcombat.model.PlayerStats;
-import com.dcombat.util.Msg;
+import com.duapar.dcombat.manager.StatsManager;
+import com.duapar.dcombat.manager.TagManager;
+import com.duapar.dcombat.model.PlayerStats;
+import com.duapar.dcombat.util.Msg;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;

@@ -1,4 +1,4 @@
-package com.dcombat.manager;
+package com.duapar.dcombat.manager;
 
 import org.bukkit.configuration.file.FileConfiguration;
 

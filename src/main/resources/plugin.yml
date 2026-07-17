@@ -1,6 +1,6 @@
 name: DCombat
 version: '${project.version}'
-main: com.dcombat.DCombat
+main: com.duapar.dcombat.DCombat
 api-version: '26.1'
 author: Duapar
 description: Tag de combat PvP anti-combat-log, suivi des kills/morts/séries, classement - pour tout serveur factions/PvP D(nom).

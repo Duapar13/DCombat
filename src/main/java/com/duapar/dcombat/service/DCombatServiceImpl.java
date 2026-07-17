@@ -1,8 +1,8 @@
-package com.dcombat.service;
+package com.duapar.dcombat.service;
 
-import com.dapi.service.CombatService;
-import com.dcombat.manager.StatsManager;
-import com.dcombat.manager.TagManager;
+import com.duapar.dapi.service.CombatService;
+import com.duapar.dcombat.manager.StatsManager;
+import com.duapar.dcombat.manager.TagManager;
 
 import java.util.UUID;
 

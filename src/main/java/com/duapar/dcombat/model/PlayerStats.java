@@ -1,4 +1,4 @@
-package com.dcombat.model;
+package com.duapar.dcombat.model;
 
 import java.util.UUID;
 
